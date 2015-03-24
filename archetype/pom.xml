@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>pro.savant.circumflex</groupId>
+  <groupId>com.sugarcane.circumflex</groupId>
   <artifactId>webapp-archetype</artifactId>
   <packaging>maven-archetype</packaging>
   <name>Circumflex Application Archetype</name>
   <version>3.1-SNAPSHOT</version>
 
   <parent>
-    <groupId>pro.savant.circumflex</groupId>
+    <groupId>com.sugarcane.circumflex</groupId>
     <artifactId>circumflex-parent</artifactId>
     <version>3.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>

@@ -15,7 +15,7 @@ class CircumflexXmlSpec
   "StructHolder" - {
     "read contents of POM" in {
       val pom = new Pom(new File("pom.xml")).load()
-      pom.groupId.getOrElse("") must equal("pro.savant.circumflex")
+      pom.groupId.getOrElse("") must equal("com.sugarcane.circumflex")
     }
   }
 

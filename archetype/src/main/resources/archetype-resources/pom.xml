@@ -18,17 +18,17 @@
 
   <dependencies>
     <dependency>
-      <groupId>pro.savant.circumflex</groupId>
+      <groupId>com.sugarcane.circumflex</groupId>
       <artifactId>circumflex-core</artifactId>
       <version>${cx.version}</version>
     </dependency>
     <dependency>
-      <groupId>pro.savant.circumflex</groupId>
+      <groupId>com.sugarcane.circumflex</groupId>
       <artifactId>circumflex-web</artifactId>
       <version>${cx.version}</version>
     </dependency>
     <dependency>
-      <groupId>pro.savant.circumflex</groupId>
+      <groupId>com.sugarcane.circumflex</groupId>
       <artifactId>circumflex-ftl</artifactId>
       <version>${cx.version}</version>
     </dependency>
@@ -106,7 +106,7 @@
         </configuration>
       </plugin>
       <plugin>
-        <groupId>pro.savant.circumflex</groupId>
+        <groupId>com.sugarcane.circumflex</groupId>
         <artifactId>maven-cx-plugin</artifactId>
         <version>${cx.version}</version>
         <executions>
